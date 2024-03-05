@@ -1,11 +1,11 @@
-# -.-GitHub-README-.-UR-Mini-Project-Speech-to-Text-for-Robot-Control
+# UR Mini Project: Speech to Text for Robot Control
 이 프로젝트는 음성 명령을 통해 UR 로봇을 제어하는 프로그램을 구현합니다. 사용자가 특정 방향에 대한 음성 명령을 내리면, 로봇은 그에 따라 움직입니다.
 ![image](https://github.com/jiloKIm/-.-GitHub-README-.-UR-Mini-Project-Speech-to-Text-for-Robot-Control/assets/96615422/a1d91126-c755-4dc0-8a16-5f169a4037ea)
 ![image](https://github.com/jiloKIm/-.-GitHub-README-.-UR-Mini-Project-Speech-to-Text-for-Robot-Control/assets/96615422/c56844dc-a5ec-4cb8-a99c-5fbb7b71607c)
 
 ---
 
-# UR Mini Project: Speech to Text for Robot Control
+
 
 이 프로젝트는 음성 명령을 통해 UR 로봇을 제어하는 프로그램을 구현합니다. 사용자가 특정 방향에 대한 음성 명령을 내리면, 로봇은 그에 따라 움직입니다.
 
